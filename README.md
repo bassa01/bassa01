@@ -3,4 +3,5 @@
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=softbear&theme=bear)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
