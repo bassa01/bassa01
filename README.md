@@ -5,6 +5,8 @@
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 <!--START_SECTION:waka-->
 ```text
+Week: 03 January, 2021 - 10 January, 2021
+
 Other      21 hrs 45 mins  ██████████████████░░░░░░░   72.41 % 
 C          7 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 % 
 TeX        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
