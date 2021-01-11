@@ -3,6 +3,12 @@
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+
+---
+
+
+## Weekly Report
+
 <!--START_SECTION:waka-->
 ```text
 Week: 03 January, 2021 - 10 January, 2021
