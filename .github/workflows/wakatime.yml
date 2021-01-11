@@ -19,3 +19,4 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_TIMEZONE: false
           SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: false
