@@ -4,20 +4,5 @@
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 
----
+<img src="https://github.com/soft-bear/soft-bear/blob/main/images/stat.svg" alt="Alternative Text"/>
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      2 hrs 1 min         █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.0%
-
-```
-<!--END_SECTION:waka-->
