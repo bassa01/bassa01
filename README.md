@@ -20,10 +20,4 @@ VS Code                  2 hrs 1 min         ███████████�
 Windows                  2 hrs 1 min         █████████████████████████   100.0%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/soft-bear/soft-bear/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
