@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-09-21T00:36:10.244467</dc:date>
+    <dc:date>2021-09-22T00:36:13.537200</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,7 +30,7 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#pb5b386fb36)" d="M 42.59375 27.358125 
+    <path clip-path="url(#p89a6badfe8)" d="M 42.59375 27.358125 
 L 574.022321 27.358125 
 L 574.022321 72.158125 
 L 42.59375 72.158125 
@@ -38,12 +38,12 @@ z
 " style="fill:#178600;stroke:#178600;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pb5b386fb36)" d="M 42.59375 83.358125 
+    <path clip-path="url(#p89a6badfe8)" d="M 42.59375 83.358125 
 L 175.201879 83.358125 
 L 175.201879 128.158125 
 L 42.59375 128.158125 
 z
-" style="fill:#e669b9;stroke:#e669b9;stroke-linejoin:miter;"/>
+" style="fill:#d4d57b;stroke:#d4d57b;stroke-linejoin:miter;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
@@ -52,10 +52,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m8a95254f66" style="stroke:#000000;stroke-width:0.8;"/>
+" id="m92432ac502" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="42.59375" xlink:href="#m8a95254f66" y="49.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="42.59375" xlink:href="#m92432ac502" y="49.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -129,7 +129,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="42.59375" xlink:href="#m8a95254f66" y="105.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="42.59375" xlink:href="#m92432ac502" y="105.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -443,7 +443,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- From 13 September, 2021 to 20 September, 2021: 1 hr 9 mins -->
+    <!-- From 14 September, 2021 to 21 September, 2021: 1 hr 9 mins -->
     <g style="fill:#586069;" transform="translate(133.41125 16.318125)scale(0.12 -0.12)">
      <defs>
       <path d="M 628 4666 
@@ -480,6 +480,25 @@ Q 353 2609 779 3096
 Q 1206 3584 1959 3584 
 z
 " id="DejaVuSans-6f" transform="scale(0.015625)"/>
+      <path d="M 2419 4116 
+L 825 1625 
+L 2419 1625 
+L 2419 4116 
+z
+M 2253 4666 
+L 3047 4666 
+L 3047 1625 
+L 3713 1625 
+L 3713 1100 
+L 3047 1100 
+L 3047 0 
+L 2419 0 
+L 2419 1100 
+L 313 1100 
+L 313 1709 
+L 2253 4666 
+z
+" id="DejaVuSans-34" transform="scale(0.015625)"/>
       <path d="M 3425 4513 
 L 3425 3897 
 Q 3066 4069 2747 4153 
@@ -667,7 +686,7 @@ z
      <use x="150.314453" xlink:href="#DejaVuSans-6d"/>
      <use x="247.726562" xlink:href="#DejaVuSans-20"/>
      <use x="279.513672" xlink:href="#DejaVuSans-31"/>
-     <use x="343.136719" xlink:href="#DejaVuSans-33"/>
+     <use x="343.136719" xlink:href="#DejaVuSans-34"/>
      <use x="406.759766" xlink:href="#DejaVuSans-20"/>
      <use x="438.546875" xlink:href="#DejaVuSans-53"/>
      <use x="502.023438" xlink:href="#DejaVuSans-65"/>
@@ -689,7 +708,7 @@ z
      <use x="1380.34375" xlink:href="#DejaVuSans-6f"/>
      <use x="1441.525391" xlink:href="#DejaVuSans-20"/>
      <use x="1473.3125" xlink:href="#DejaVuSans-32"/>
-     <use x="1536.935547" xlink:href="#DejaVuSans-30"/>
+     <use x="1536.935547" xlink:href="#DejaVuSans-31"/>
      <use x="1600.558594" xlink:href="#DejaVuSans-20"/>
      <use x="1632.345703" xlink:href="#DejaVuSans-53"/>
      <use x="1695.822266" xlink:href="#DejaVuSans-65"/>
@@ -724,7 +743,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pb5b386fb36">
+  <clipPath id="p89a6badfe8">
    <rect height="110.88" width="558" x="42.59375" y="22.318125"/>
   </clipPath>
  </defs>
