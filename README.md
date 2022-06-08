@@ -5,5 +5,5 @@
 <!--![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/soft-bear/soft-bear/master/profile-summary-card-output/dracula/1-repos-per-language.svg)-->
 
-<img src="https://github.com/soft-bear/soft-bear/blob/main/images/stat.svg" alt="Alternative Text"/>
-
+<!--<img src="https://github.com/soft-bear/soft-bear/blob/main/images/stat.svg" alt="Alternative Text"/>
+-->
